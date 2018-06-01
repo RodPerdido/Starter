@@ -52,5 +52,5 @@ Some text to show that the reference links can follow later.
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
 
-![Image of Yaktocat](Version Conflict.bmp)
+![Image of Yaktocat](https://raw.githubusercontent.com/dgsystem/Starter/master/Version%20Conflict.bmp)
 
